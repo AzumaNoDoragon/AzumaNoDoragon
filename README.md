@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor back-end, entusiasta da automação com Python e apaixonado por Java, de Cornélio Procópio/PR!</p>
+<h3 align="left">Sou desenvolvedor back-end, entusiasta da automação com Python e apaixonado por Java, de Cornélio Procópio/PR!</p>
 
 ###
 

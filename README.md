@@ -4,7 +4,7 @@
 
 ### Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!
 
-### ###
+###
 
 ## Sobre mim
 
@@ -14,11 +14,11 @@ Sou estudante de Engenharia de Software na UTFPR-CP e apaixonado por tecnologia,
 Tenho experiência com Python, orientação a objetos, APIs REST, testes automatizados, mineração de dados e banco de dados com MySQL. Já participei de eventos como o NLW Connect (Rocketseat) e desenvolvi projetos acadêmicos e pessoais nas áreas de robótica, backend e fiquei em 2º lugar no [hackathon Copel](https://www.copel.com/site/hackathon/#premiacao).
 Tenho um grande interesse por automação de processos com Python, adoro encontrar formas criativas de facilitar tarefas repetitivas e aumentar a produtividade com código, um grande exemplo disto é o [SteamBot](https://github.com/AzumaNoDoragon/SteamBot), um projeto pessoal automatizado que coleta informações na API da Steam e gera um site [hospedado no proprio GitHub](https://azumanodoragon.github.io/SteamBot/), que atualiza todo dia por volta das 16hrs.<br><br>Sou movido por desafios e acredito que tecnologia de verdade transforma vidas.
 
----
+###
 
 ## Ferramentas e linguagens
 
----
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -48,11 +48,11 @@ Tenho um grande interesse por automação de processos com Python, adoro encontr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
----
+###
 
 ## Estatísticas
 
----
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzumaNoDoragon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -60,11 +60,11 @@ Tenho um grande interesse por automação de processos com Python, adoro encontr
   <img src="https://streak-stats.demolab.com?user=AzumaNoDoragon&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
----
+###
 
 ## Meios de contato!
 
----
+###
 
 <div align="right">
   <a href="https://www.linkedin.com/in/gabriel-santos-afini-da-silva-1b604423b " target="_blank">

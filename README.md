@@ -11,8 +11,12 @@
 ###
 
 Sou estudante de Engenharia de Software na UTFPR-CP e apaixonado por tecnologia, aprendizado contínuo e impacto social. Gosto de transformar ideias em soluções práticas, seja com código, projetos de extensão ou iniciativas culturais.
+
 Tenho experiência com Python, orientação a objetos, APIs REST, testes automatizados, mineração de dados e banco de dados com MySQL. Já participei de eventos como o NLW Connect (Rocketseat) e desenvolvi projetos acadêmicos e pessoais nas áreas de robótica, backend e fiquei em 2º lugar no [hackathon Copel](https://www.copel.com/site/hackathon/#premiacao).
-Tenho um grande interesse por automação de processos com Python, adoro encontrar formas criativas de facilitar tarefas repetitivas e aumentar a produtividade com código, um grande exemplo disto é o [SteamBot](https://github.com/AzumaNoDoragon/SteamBot), um projeto pessoal automatizado que coleta informações na API da Steam e gera um site [hospedado no proprio GitHub](https://azumanodoragon.github.io/SteamBot/), que atualiza todo dia por volta das 16hrs.<br><br>Sou movido por desafios e acredito que tecnologia de verdade transforma vidas.
+
+Tenho um grande interesse por automação de processos com Python, adoro encontrar formas criativas de facilitar tarefas repetitivas e aumentar a produtividade com código, um grande exemplo disto é o [SteamBot](https://github.com/AzumaNoDoragon/SteamBot), um projeto pessoal automatizado que coleta informações na API da Steam e gera um site [hospedado no proprio GitHub](https://azumanodoragon.github.io/SteamBot/), que atualiza todo dia por volta das 16hrs.
+
+Sou movido por desafios e acredito que tecnologia de verdade transforma vidas.
 
 ###
 

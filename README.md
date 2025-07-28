@@ -1,12 +1,12 @@
-#Olá! Me chamo Gabriel Afini!
+# Olá! Me chamo Gabriel Afini!
 
 ---
 
-###Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!
+### Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!
 
 ---
 
-##Sobre mim
+## Sobre mim
 
 ---
 
@@ -16,7 +16,7 @@ Tenho um grande interesse por automação de processos com Python, adoro encontr
 
 ---
 
-##Ferramentas e linguagens
+## Ferramentas e linguagens
 
 ---
 
@@ -50,7 +50,7 @@ Tenho um grande interesse por automação de processos com Python, adoro encontr
 
 ---
 
-##Estatísticas
+## Estatísticas
 
 ---
 
@@ -62,7 +62,7 @@ Tenho um grande interesse por automação de processos com Python, adoro encontr
 
 ---
 
-##Meios de contato!
+## Meios de contato!
 
 ---
 

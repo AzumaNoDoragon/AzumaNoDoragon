@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sou desenvolvedor back-end, entusiasta da automação com Python e com grande apreço por Java!</p>
+<h3 align="left">Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Software na UTFPR-CP e apaixonado por tecnologia, aprendizado contínuo e impacto social. Gosto de transformar ideias em soluções práticas — seja com código, projetos de extensão ou iniciativas culturais.<br><br>Tenho experiência com Python, orientação a objetos, APIs REST, testes automatizados, mineração de dados e banco de dados com MySQL. Já participei de eventos como o NLW Connect - Python (Rocketseat) e desenvolvi projetos acadêmicos e pessoais nas áreas de robótica, backend e fotografia artística.<br><br>Tenho um grande interesse por automação de processos com Python — adoro encontrar formas criativas de facilitar tarefas repetitivas e aumentar a produtividade com código.<br><br>Sou movido por desafios e acredito que tecnologia de verdade transforma vidas.</p>
+<p align="left">Sou estudante de Engenharia de Software na UTFPR-CP e apaixonado por tecnologia, aprendizado contínuo e impacto social. Gosto de transformar ideias em soluções práticas, seja com código, projetos de extensão ou iniciativas culturais.<br><br>Tenho experiência com Python, orientação a objetos, APIs REST, testes automatizados, mineração de dados e banco de dados com MySQL. Já participei de eventos como o NLW Connect (Rocketseat) e desenvolvi projetos acadêmicos e pessoais nas áreas de robótica, backend e fiquei em 2º lugar no [hackathon Copel](https://www.copel.com/site/hackathon/#premiacao).<br><br>Tenho um grande interesse por automação de processos com Python, adoro encontrar formas criativas de facilitar tarefas repetitivas e aumentar a produtividade com código, um grande exemplo disto é o [SteamBot](https://github.com/AzumaNoDoragon/SteamBot), um projeto pessoal automatizado que coleta informações na API da Steam e gera um site [hospedado no proprio GitHub](https://azumanodoragon.github.io/SteamBot/), que atualiza todo dia por volta das 16hrs.<br><br>Sou movido por desafios e acredito que tecnologia de verdade transforma vidas.</p>
 
 ###
 
@@ -23,13 +23,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###

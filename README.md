@@ -2,9 +2,9 @@
 
 ###
 
-### Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!
+## Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!
 
----
+###
 
 ## Sobre mim
 

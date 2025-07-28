@@ -1,14 +1,14 @@
 # Olá! Me chamo Gabriel Afini!
 
----
+###
 
 ### Sou desenvolvedor Back-end, entusiasta de automação com Python e com grande apreço por Java e C#!
 
----
+###
 
 ## Sobre mim
 
----
+###
 
 Sou estudante de Engenharia de Software na UTFPR-CP e apaixonado por tecnologia, aprendizado contínuo e impacto social. Gosto de transformar ideias em soluções práticas, seja com código, projetos de extensão ou iniciativas culturais.
 Tenho experiência com Python, orientação a objetos, APIs REST, testes automatizados, mineração de dados e banco de dados com MySQL. Já participei de eventos como o NLW Connect (Rocketseat) e desenvolvi projetos acadêmicos e pessoais nas áreas de robótica, backend e fiquei em 2º lugar no [hackathon Copel](https://www.copel.com/site/hackathon/#premiacao).

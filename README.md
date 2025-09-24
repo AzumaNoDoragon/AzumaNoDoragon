@@ -85,6 +85,9 @@ Sou movido por desafios e acredito que tecnologia de verdade transforma vidas.
   <a href="https://wa.me/5543988729559" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0000-4632-2409" target="_blank">
+    <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
